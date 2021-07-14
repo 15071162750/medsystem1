@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wan/pojo/MedicineException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wan/pojo/TbCategory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wan/pojo/TbMedicine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wan/pojo/TbSelldetail.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wan/pojo/TbUser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wan/utils/MedicineHandlerException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/jdbc.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/log4j.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext_dao.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext_service.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext_tran.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/staticpage/error.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/staticpage/login.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/staticpage/sell/sell_add.html" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
